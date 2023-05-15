@@ -10,3 +10,9 @@ Tokens, that added into the registry:
 3. Copy `ACME` folder and rename it to your token symbol
 4. Update logo image (256×256px, JPG/PNG) and `token.json`
 5. Create pull request
+
+## Important
+`token.json` syntax:
+- `tokenIssuer` should start with `acc://`
+- `logo` should point to the image into this github repo
+- `url` should start with `https://`
