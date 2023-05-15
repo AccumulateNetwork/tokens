@@ -6,10 +6,9 @@ Tokens, that added into the registry:
 
 ## How to add your token
 1. Fork this repository
-2. Use `master` branch for mainnet tokens, `testnet` branch for testnet tokens
-3. Copy `ACME` folder and rename it to your token symbol
-4. Update logo image (256×256px, JPG/PNG) and `token.json`
-5. Create pull request
+2. Copy `ACME` folder and rename it to your token symbol
+3. Update logo image (256×256px, JPG/PNG) and `token.json`
+4. Create pull request
 
 ## Important
 `token.json` syntax:
